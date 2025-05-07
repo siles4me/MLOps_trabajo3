@@ -21,7 +21,7 @@ async def test():
     Endpoint que retorna datos de ejemplo.
     """
     data = {
-        "id": 123,
+        "id": 12345,
         "nombre": "Objeto de Ejemplo",
         "descripcion": "Esto es solo un ejemplo para demostrar el API.",
         "activo": True,
